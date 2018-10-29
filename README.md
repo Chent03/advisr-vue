@@ -1,26 +1,6 @@
-# advisr-frontend
+# Advisr Frontend Project
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
+### How to run the project
+1. yarn install
+2. yarn serve
+3. go to localhost:8080
